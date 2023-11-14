@@ -1,6 +1,6 @@
 ### Hi, I'm Fadjri👋
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://s5.gifyu.com/images/SRLLN.gif">
 
 
 💻 I’m currently learning about DevOps Engineer, Cloud Engineer, Site Reliability Engineer, and Software Engineer,.
