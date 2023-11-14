@@ -1,15 +1,7 @@
 ### Hi, I'm Fadjri👋
 
-<table>
-  <tr>
-    <td align="center" >
-      <img width="85%" src = "https://github-readme-stats.vercel.app/api?username=FadjriBoyang&show_icons=true&theme=nightowl"/>
-    </td>
-    <td align="center">
-      <img  width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FadjriBoyang&layout=compact&theme=vision-friendly-dark"/>
-    </td>
-  </tr>
-<table>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+
 
 💻 I’m currently learning about DevOps Engineer, Cloud Engineer, Site Reliability Engineer, and Software Engineer,.
 
@@ -28,7 +20,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<table>
+  <tr>
+    <td align="center" >
+      <img width="85%" src = "https://github-readme-stats.vercel.app/api?username=FadjriBoyang&show_icons=true&theme=nightowl"/>
+    </td>
+    <td align="center">
+      <img  width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FadjriBoyang&layout=compact&theme=vision-friendly-dark"/>
+    </td>
+  </tr>
+<table>
 <!--
 **FadjriBoyang/FadjriBoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
